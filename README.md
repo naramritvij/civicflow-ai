@@ -1,4 +1,4 @@
-# CivicFlow AI — Incident Intelligence System
+# CivicFlow AI! Incident Intelligence System
 
 A full-stack web application for managing and analyzing transit incidents using AI. The backend is powered by **FastAPI** + **Oracle Database**, the frontend uses **React 19** with **TanStack Router**, and AI analysis is provided by **Google Gemini 2.5 Flash**.
 
